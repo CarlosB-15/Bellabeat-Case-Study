@@ -1,15 +1,16 @@
 # Bellabeat-Case-Study
-Overview
+## Overview
 
 Bellabeat is a renowned high-tech company specializing in creating intelligent products designed to promote women's well-being. With a robust product line, including the Bellabeat app, Leaf, Time, Spring, and a Bellabeat subscription, the company has seen significant growth since its inception in 2013.
 
-Project scope
+## Project scope
 The main goal of this project is to analyze how consumers interact with non-Bellabeat smart devices and extract valuable insights that can inform Bellabeat's marketing strategy. By understanding trends in the usage patterns of similar products, Bellabeat aims to personalize its approach, improve user experience and expand its customer base.
 
-Contents
-Data collection:
-Collect data on consumer behaviors related to non-Bellabeat smart devices.
-Analyze usage patterns, preferences and feedback.
+## Contents
+
+## Data collection:
+* Collect data on consumer behaviors related to non-Bellabeat smart devices.
+- Analyze usage patterns, preferences and feedback.
 
 Trend identification:
 Extract key trends in how consumers interact with smart health-focused products.
