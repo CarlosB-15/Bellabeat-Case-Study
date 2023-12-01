@@ -1,4 +1,4 @@
-# Bellabeat-Case-Study
+# Bellabeat Case Study
 ### Overview
 
 Bellabeat is a renowned high-tech company specializing in creating intelligent products designed to promote women's well-being. With a robust product line, including the Bellabeat app, Leaf, Time, Spring, and a Bellabeat subscription, the company has seen significant growth since its inception in 2013.
